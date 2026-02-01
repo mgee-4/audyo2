@@ -1,2 +1,2 @@
 # audyo2
-audyo, the resurrection!
+audyo, the resurrection! (coming soon (totally)...)
